@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Deneb</h1>
 <h3 align="center">A passionate frontend developer from Mexico</h3>
 
-- 🔭 I’m currently working on **creating a react native app.**
+- 🔭 I’m currently working on **React and Next.js applications, games in C#, Python and Java.**
 
-- 🌱 I’m currently learning **react native and python for data science.**
+- 🌱 I’m currently learning **Java, C# and .NET.**
 
-- 👯 I’m looking to collaborate on **IOS and Android applications.**
+- 👯 I’m looking to collaborate on **.NET and Java applications/backend and React and Next.js apps.**
 
-- 🤝 I’m looking for help with **datascience proyects, react native projects.**
+- 🤝 I’m looking for help with **datascience proyects, React and Next.js projects and C# and Java projects**
 
 - 💬 Ask me about React, Redux, Express, Sequelize, SQL, HTML, Pandas, Machine learning, Numpy, Baseball Data analysis. **React, Redux, Express, Sequelize, SQL, HTML, Pandas, Machine learning, Numpy, Baseball Data analysis.**
 
