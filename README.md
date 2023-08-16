@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Deneb</h1>
 <h3 align="center">A passionate frontend developer from Mexico</h3>
 
-- 🔭 I’m currently working on **React and Next.js applications, games in C#, Python and Java.**
+- 🔭 I’m currently working on **React and Next.js applications and ASP.NET Core applications.**
 
-- 🌱 I’m currently learning **Java, C# and .NET.**
+- 🌱 I’m currently learning **Docker**
 
-- 👯 I’m looking to collaborate on **.NET and Java applications/backend and React and Next.js apps.**
+- 👯 I’m looking to collaborate on **ASP.NET and React and Next.js apps.**
 
-- 🤝 I’m looking for help with **datascience proyects, React and Next.js projects and C# and Java projects**
+- 🤝 I’m looking for help with **datascience proyects, React and Next.js projects and ASP.NET**
 
-- 💬 Ask me about React, Redux, Express, Sequelize, SQL, HTML, Pandas, Machine learning, Numpy, Baseball Data analysis. **React, Redux, Express, Sequelize, SQL, HTML, Pandas, Machine learning, Numpy, Baseball Data analysis.**
+- 💬 Ask me about React, Redux, Express, Sequelize, SQL, HTML, Pandas, Machine learning, Numpy, Baseball Data analysis. **React, Redux, Express, Sequelize, SQL, HTML, Pandas, Machine learning, Numpy, ASP.NET.**
 
 - 📫 How to reach me **https://www.linkedin.com/in/deneb-ramirez-olmos-b82678126/**
 
